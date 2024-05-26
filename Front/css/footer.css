@@ -1,65 +1,69 @@
 @charset "UTF-8";
 
-.l-footer {
-  background-color: #f8f8f8;
+.FooterContainer {
+  background-color: #fff;
   padding: 20px 0;
+  position: relative;
+  border: 1px solid #d1d1d1;
 }
 
-.l-footer__top {
+.FooterTop {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
 
-.l-footer__nav {
+.FooterCart {
   flex: 1;
   padding: 0 20px;
   text-align: center;
+  border-right: 1px solid #d1d1d1;
 }
 
-.l-footer__nav ul {
+.FooterCart ul {
   list-style: none;
   padding: 0;
   text-align: center;
 }
 
-.l-footer__nav li {
+.FooterCart li {
   margin-bottom: 10px;
 }
 
-.l-footer__nav a {
+.FooterCart a {
   color: black;
   text-decoration: none;
   font-size: 0.9rem;
 }
 
-.l-footer__nav a:hover {
+.FooterCart a:hover {
   color: #e74c3c;
 }
 
-.l-footer__newsletter {
+.ProjectMember {
   flex: 1;
   padding: 0 20px;
   text-align: center;
 }
 
 /* 푸터 내비게이션 디자인 */
-.l-footer__nav-list {
+.FCartList {
   margin: 0;
   padding: 0;
 }
 
-.l-footer__nav-item {
+.FooterItem {
   margin-bottom: 10px;
 }
 
-.l-footer__nav-link {
-  color: black;
-  text-decoration: none;
-  font-size: 0.9rem;
+.CopyRight {
+  color: #767676;
+  position: absolute;
+  margin-top: 210px;
+  margin-right: 1250px;
 }
 
-.l-footer__nav-link:hover {
-  color: #e74c3c;
+.CopyRight>p {
+  margin:5px;
 }

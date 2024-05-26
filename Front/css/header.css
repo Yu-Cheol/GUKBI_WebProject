@@ -1,5 +1,41 @@
 @charset "UTF-8";
 
+/* 폰트 */
+@font-face {
+    font-family: 'MoveSans-Bold';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405-2@1.0/MoveSans-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HSSanTokki20-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/HSSanTokki20-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YangjuByeolsanA1';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/YangjuByeolsanA1.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gisangchung Dalcomgihu';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/Gisangchung Dalcomgihu.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KCC-Hanbit';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2403-2@1.0/KCC-Hanbit.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
     padding: 0px;
     margin: 0px;
@@ -20,10 +56,19 @@ header>div:nth-child(odd) {
     flex: 2;
 }
 
-.logo {
+.MainLogo{
     padding-top: 10px;
     height: 40px;
     text-align: center;
+
+}
+
+.MainLogo>a>strong{
+    font-family: 'HSSanTokki20-Regular';
+    font-size: 20px;
+    color: black;
+    /*border-bottom: 1px solid black;*/
+    cursor: pointer;
 }
 
 nav {
@@ -47,7 +92,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-ul.left {
+ul.CartLeft {
     float: left;
     padding: 0;
     padding-left: 10px;
@@ -64,7 +109,7 @@ ul li a {
     text-decoration: none;
 }
 
-nav ul.right {
+nav ul.CartRight {
     float: right;
 }
 
@@ -73,7 +118,7 @@ nav ul.right {
     border:none;
 }
 
-.navTop {
+.SearchBtn {
     background-color:white;
 }
 
