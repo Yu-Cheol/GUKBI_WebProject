@@ -20,6 +20,11 @@
 </table>
 
 ### ⚒️ 사용 기술 및 도구
+IDE : <br>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipseide&logoColor=F37726" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=22ABF3" />
+<br><br>
 Language : <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/>
