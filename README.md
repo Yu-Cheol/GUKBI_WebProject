@@ -8,6 +8,15 @@
 사용자가 장바구니 추가, 결제할 수 있도록 다양한 기능을 구현하였으며, <br>
 관리자 모드에서 상품 및 주문 관리를 효율적으로 처리할 수 있는 관리 페이지도 제공하였습니다.
 
+### 🧑‍💻 프로젝트 조원
+<table>
+  <tr><td>조원</td><td>역할</td></tr>
+  <tr><td>성유철(★)<br><a href="https://github.com/Yu-Cheol"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>쇼핑몰 UI 제작, DB 설계, 사용자 회원가입 및 로그인 관리, 결제 시스템 연동</td></tr>
+  <tr><td>김창우(☆)<br><a href="https://github.com/Changwoo3132"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>DB 설계, 상품등록 및 상품삭제, 장바구니 관리, 회원관리, 결제 시스템 연동 </td></tr>
+  <tr><td>김동훈<br><a href="https://github.com/donghoon3417"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>사용자, 관리자 게시판 등록</td></tr>
+  <tr><td>이정균<br><a href="https://github.com/leejungKy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>쇼핑몰 UI 제작</td></tr>
+</table>
+
 ### ⚒️ 사용 기술 및 도구
 Language : <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -18,6 +27,9 @@ Language : <br>
 <br><br>
 Backend Framework : <br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=springboot&logoColor=white" />
+<br><br>
+ORM : <br>
+<img src="https://img.shields.io/badge/MyBatis-DD0700.svg?style=flat&logo=mybatis&logoColor=white" />
 <br><br>
 Bliud Tool : <br>
 <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white" />
@@ -52,4 +64,20 @@ Data Base : <br>
       </ul>
     </ul>
   관리자 기능
+    <ul>
+      <li>상품 관리</li>
+      <ul>
+        <li>상품 등록, 수정, 삭제 기능 제공</li>
+      </ul>&nbsp
+      <li>사용자 관리</li>
+      <ul>
+        <li>회원 정보 조회 및 특정 사용자 계정 관리</li>
+      </ul>&nbsp
+      <li>게시판 문의 관리</li>
+      <ul>
+        <li>사용자가 남긴 게시판 문의를 확인하고, 댓글 형태로 답변 작성</li>
+        <li>게시글 삭제 및 관리 권한 제공</li>
+        <li>공지사항 게시물</li>
+      </ul>
+    </ul>
 </div>
