@@ -22,14 +22,15 @@
 ### ⚒️ 사용 기술 및 도구
 IDE : <br>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipseide&logoColor=F37726" />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=22ABF3" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL Developer-FF0000.svg?style=flat&logo=oracle&logoColor=white" />
 <br><br>
 Language : <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232a" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/JQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white" />
 <br><br>
 Backend Framework : <br>
@@ -42,7 +43,7 @@ Bliud Tool : <br>
 <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white" />
 <br><br>
 Web Application Server : <br>
-<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" />
+<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" />
 <br><br>
 Data Base : <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
