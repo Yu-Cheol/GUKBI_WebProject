@@ -13,7 +13,7 @@
 ### 🧑‍💻 프로젝트 조원
 <table>
   <tr><td>조원</td><td>역할</td></tr>
-  <tr><td>성유철(★)<br><a href="https://github.com/Yu-Cheol"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>쇼핑몰 UI 제작, DB 설계, 사용자 회원가입 및 로그인 관리, 결제 시스템 연동</td></tr>
+  <tr><td>성유철(★)<br><a href="https://github.com/Yu-Cheol"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>쇼핑몰 UI 제작, DB 설계, 사용자 회원가입 및 로그인 관리, 회원수정, 결제 시스템 연동</td></tr>
   <tr><td>김창우(☆)<br><a href="https://github.com/Changwoo3132"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>DB 설계, 상품등록 및 상품삭제, 장바구니 관리, 회원관리, 결제 시스템 연동 </td></tr>
   <tr><td>김동훈<br><a href="https://github.com/donghoon3417"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>사용자, 관리자 게시판 등록</td></tr>
   <tr><td>이정균<br><a href="https://github.com/leejungKy"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white" /></a></td><td>쇼핑몰 UI 제작</td></tr>
